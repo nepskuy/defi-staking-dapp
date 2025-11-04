@@ -244,11 +244,11 @@ __metadata:
   linkType: hard
 
 "@ecies/ciphers@npm:^0.2.4":
-  version: 0.2.4
-  resolution: "@ecies/ciphers@npm:0.2.4"
+  version: 0.2.5
+  resolution: "@ecies/ciphers@npm:0.2.5"
   peerDependencies:
     "@noble/ciphers": ^1.0.0
-  checksum: 6300075ffce01765ad0ddcc26ed6150301cd448bc79b7a046cbd659c4bd6e3a05f207df2a09396cdf529bcc6ab921b26cb50483703c57f80f2d8898c369284f3
+  checksum: 33aa89b8633e66cf5f0fbc18e461e4b152261bd7d30658a213ebb86beb7ae657d64defa7c4483e1c5c82f5935241958210d44d39efab7e4f09bbfa4e76323ad7
   languageName: node
   linkType: hard
 
